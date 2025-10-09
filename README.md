@@ -51,7 +51,7 @@ Lastly run the following command:
 java Main
 ```
 ```bash
-NOTE: The src/ folder contians the actual code where as the bin/ folder contians teh complied code which is to be run.
+NOTE: The src/ folder contians the actual code where as the bin/ folder contians the complied code which is to be run.
 ```
 
 ------
