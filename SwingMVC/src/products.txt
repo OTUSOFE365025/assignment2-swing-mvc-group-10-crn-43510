@@ -1,0 +1,5 @@
+12345 Coffee $8.32
+67890 Muffin $2.50
+24680 Bagel $3.15
+13579 Donut $1.99
+11223 Sandwich $5.60
