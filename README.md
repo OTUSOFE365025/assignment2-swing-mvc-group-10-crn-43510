@@ -9,6 +9,28 @@
 | High level Class Diagram    | Mohit Gajula    |
 ------
 
+## File Structure
+```bash
+assignment2-swing-mvc-group-10-crn-43510/
+├── README.md                                    # Project documentation
+├── Assignment 2 Sequence Diagram.drawio.pdf     # Sequence diagram documentation
+└── SwingMVC/                                    # Main application directory
+    ├── src/                                    
+    │   ├── Main.java                           # Main File
+    │   ├── Model.java                          # MVC Model - data management
+    │   ├── View.java                           # MVC View - user interface
+    │   ├── Controller.java                     # MVC Controller - event handling
+    │   ├── Product.java                        
+    │   └── products.txt                        # Sample product data
+    │
+    └── bin/                                    # Compiled class files
+        ├── Main.class                          # Complied Main file to Run  
+        ├── Model.class
+        ├── View.class
+        ├── Controller.class
+        ├── Product.class
+        └── products.txt
+```
 
 ## How to Run
 In you terminal navigate to the SwintgMVC folder:
