@@ -50,7 +50,9 @@ Lastly run the following command:
 ```bash
 java Main
 ```
-
+```bash
+NOTE: The src/ folder contians the actual code where as the bin/ folder contians teh complied code which is to be run.
+```
 
 ------
 ### Question 1
