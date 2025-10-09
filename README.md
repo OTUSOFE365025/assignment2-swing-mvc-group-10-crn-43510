@@ -14,7 +14,8 @@
 ```bash
 assignment2-swing-mvc-group-10-crn-43510/
 ├── README.md                                    # Project documentation
-├── Assignment 2 Sequence Diagram.drawio.pdf     # Sequence diagram documentation
+├── Sequence Diagram.png                         # Sequence diagram documentation
+├── Output.png                                   # Shows expected output of the application
 ├── High Level Diagram.png                       # High Level Class Diagram
 └── SwingMVC/                                    # Main application directory
     ├── src/                                    
